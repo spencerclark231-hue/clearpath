@@ -1,0 +1,28 @@
+Global Supply Chain Pressure Index (GSCPI) Brief - November 2026
+What the New York Fed's GSCPI measures, how to read it, and the 2025-2026 readings. Sources: Federal Reserve Bank of New York (Benigno, di Giovanni, Groen and Noble, Staff Report 1017), Reuters, MacroMicro, Trading Economics, SAP Community.
+========================================================================
+
+1. WHAT THE INDEX MEASURES
+--------------------------
+The GSCPI was developed by economists at the Federal Reserve Bank of New York to give a single gauge of global supply chain conditions. It combines 27 monthly variables: transportation cost data (including the Baltic Dry Index for bulk shipping, the Harpex container ship charter index, and air freight costs between the US, Europe and Asia) and supply chain subcomponents of manufacturing PMI surveys (delivery times, backlogs and purchased stocks) for seven economies: China, the euro area, Japan, Korea, Taiwan, the United Kingdom and the United States. The delivery-times component is inverted so that higher readings mean longer delivery times.
+The index is the first principal component of these series after removing the part explained by demand. It is measured in standard deviations from its historical average: 0 means average pressure, +1 means one standard deviation above average, and negative readings mean below-average pressure. It is not a percentage. Data go back to 1997, and the NY Fed began publishing it monthly in May 2022.
+Release schedule: 10:00 a.m. Eastern Time on the fourth business day of each month. The next release is scheduled for 4 December 2026 (November data).
+
+2. READINGS, 2025-2026
+----------------------
+- 2025-04: GSCPI = -0.29 (revised -0.17 for March 2025). Source: Trading Economics / NY Fed.
+- 2025-11: GSCPI = -0.16 (below historical average). Source: YCharts / NY Fed.
+- 2025-12: GSCPI = 0.54 (upwardly revised). Source: Trading Economics / NY Fed.
+- 2026-01: GSCPI = 0.41. Source: Trading Economics / NY Fed.
+- 2026-08: GSCPI = 1.20 (revised). Source: SAP Community / NY Fed (Oct 6 2026 release).
+- 2026-09: GSCPI = 1.36 (initially 1.28; upwardly revised to 1.36). Source: Reuters via TradingView (Nov 5 2026 release).
+- 2026-10: GSCPI = 1.26 (eased from September). Source: Reuters via TradingView / MacroMicro.
+
+3. INTERPRETATION
+-----------------
+Through 2025 the GSCPI sat close to or below zero, meaning normal or below-normal supply chain pressure. It turned positive in December 2025 (0.54) and rose through 2026 as the Iran war, the Hormuz closure and the renewed Red Sea attacks disrupted shipping. Pressure reached a high around May 2026, eased, and then climbed again: August 1.20, September 1.36 (revised up from an initial 1.28), October 1.26. Readings above 1 indicate pressure more than one standard deviation above normal - elevated, but far below the record pandemic-era peaks of 2021.
+The NY Fed did not explain the October easing, but noted the index had been under modest pressure in recent months amid supply disruptions tied to the Middle East war.
+How to use it: the GSCPI is a lagging, global summary. It is useful for setting the overall risk posture (see the risk tiers in SCI-11) but does not show lane-specific problems; combine it with chokepoint traffic (SCI-01), freight rates (SCI-07) and war-risk premiums (SCI-05).
+
+
+[SCI-09] Compiled 26 November 2026

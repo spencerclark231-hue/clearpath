@@ -1,0 +1,154 @@
+entity,iso3,lpi_overall_score,entity_type
+Afghanistan,AFG,1.9,country
+Albania,ALB,2.5,country
+Algeria,DZA,2.5,country
+Angola,AGO,2.1,country
+Antigua and Barbuda,ATG,2.9,country
+Argentina,ARG,2.8,country
+Armenia,ARM,2.5,country
+Australia,AUS,3.7,country
+Austria,AUT,4,country
+"Bahamas, The",BHS,2.7,country
+Bahrain,BHR,3.5,country
+Bangladesh,BGD,2.6,country
+Belarus,BLR,2.7,country
+Belgium,BEL,4,country
+Benin,BEN,2.9,country
+Bhutan,BTN,2.5,country
+Bolivia,BOL,2.4,country
+Bosnia and Herzegovina,BIH,3,country
+Botswana,BWA,3.1,country
+Brazil,BRA,3.2,country
+Bulgaria,BGR,3.2,country
+Burkina Faso,BFA,2.3,country
+Cambodia,KHM,2.4,country
+Cameroon,CMR,2.1,country
+Canada,CAN,4,country
+Central African Republic,CAF,2.5,country
+Chile,CHL,3,country
+China,CHN,3.7,country
+Colombia,COL,2.9,country
+"Congo, Dem. Rep.",COD,2.5,country
+"Congo, Rep.",COG,2.6,country
+Costa Rica,CRI,2.9,country
+Croatia,HRV,3.3,country
+Cuba,CUB,2.2,country
+Cyprus,CYP,3.2,country
+Czechia,CZE,3.3,country
+Denmark,DNK,4.1,country
+Djibouti,DJI,2.7,country
+Dominican Republic,DOM,2.6,country
+"Egypt, Arab Rep.",EGY,3.1,country
+El Salvador,SLV,2.7,country
+Estonia,EST,3.6,country
+Fiji,FJI,2.3,country
+Finland,FIN,4.2,country
+France,FRA,3.9,country
+Gabon,GAB,2.4,country
+"Gambia, The",GMB,2.3,country
+Georgia,GEO,2.7,country
+Germany,DEU,4.1,country
+Ghana,GHA,2.5,country
+Greece,GRC,3.7,country
+Grenada,GRD,2.5,country
+Guatemala,GTM,2.6,country
+Guinea,GIN,2.5,country
+Guinea-Bissau,GNB,2.6,country
+Guyana,GUY,2.4,country
+Haiti,HTI,2.1,country
+Honduras,HND,2.9,country
+"Hong Kong SAR, China",HKG,4,country
+Hungary,HUN,3.2,country
+Iceland,ISL,3.6,country
+India,IND,3.4,country
+Indonesia,IDN,3,country
+"Iran, Islamic Rep.",IRN,2.3,country
+Iraq,IRQ,2.4,country
+Ireland,IRL,3.6,country
+Israel,ISR,3.6,country
+Italy,ITA,3.7,country
+Jamaica,JAM,2.5,country
+Japan,JPN,3.9,country
+Kazakhstan,KAZ,2.7,country
+"Korea, Rep.",KOR,3.8,country
+Kuwait,KWT,3.2,country
+Kyrgyz Republic,KGZ,2.3,country
+Lao PDR,LAO,2.4,country
+Latvia,LVA,3.5,country
+Liberia,LBR,2.4,country
+Libya,LBY,1.9,country
+Lithuania,LTU,3.4,country
+Luxembourg,LUX,3.6,country
+Madagascar,MDG,2.3,country
+Malaysia,MYS,3.6,country
+Mali,MLI,2.6,country
+Malta,MLT,3.3,country
+Mauritania,MRT,2.3,country
+Mauritius,MUS,2.5,country
+Mexico,MEX,2.9,country
+Moldova,MDA,2.5,country
+Mongolia,MNG,2.5,country
+Montenegro,MNE,2.8,country
+Namibia,NAM,2.9,country
+Netherlands,NLD,4.1,country
+New Zealand,NZL,3.6,country
+Nicaragua,NIC,2.5,country
+Nigeria,NGA,2.6,country
+North Macedonia,MKD,3.1,country
+Norway,NOR,3.7,country
+Oman,OMN,3.3,country
+Panama,PAN,3.1,country
+Papua New Guinea,PNG,2.7,country
+Paraguay,PRY,2.7,country
+Peru,PER,3,country
+Philippines,PHL,3.3,country
+Poland,POL,3.6,country
+Portugal,PRT,3.4,country
+Qatar,QAT,3.5,country
+Romania,ROU,3.2,country
+Russian Federation,RUS,2.6,country
+Rwanda,RWA,2.8,country
+Serbia,SRB,2.8,country
+Singapore,SGP,4.3,country
+Slovak Republic,SVK,3.3,country
+Slovenia,SVN,3.3,country
+Solomon Islands,SLB,2.8,country
+"Somalia, Fed. Rep.",SOM,2,country
+South Africa,ZAF,3.7,country
+Spain,ESP,3.9,country
+Sri Lanka,LKA,2.8,country
+Sudan,SDN,2.4,country
+Sweden,SWE,4,country
+Switzerland,CHE,4.1,country
+Syrian Arab Republic,SYR,2.3,country
+Tajikistan,TJK,2.5,country
+Thailand,THA,3.5,country
+Togo,TGO,2.5,country
+Trinidad and Tobago,TTO,2.5,country
+Turkiye,TUR,3.4,country
+Ukraine,UKR,2.7,country
+United Arab Emirates,ARE,4,country
+United Kingdom,GBR,3.7,country
+United States,USA,3.8,country
+Uruguay,URY,3,country
+Uzbekistan,UZB,2.6,country
+"Venezuela, RB",VEN,2.3,country
+Viet Nam,VNM,3.3,country
+"Yemen, Rep.",YEM,2.2,country
+Zimbabwe,ZWE,2.5,country
+World,WLD,3,aggregate
+North America,NAC,3.9,aggregate
+Euro area,EMU,3.63333333333333,aggregate
+European Union,EUU,3.61851851851852,aggregate
+East Asia & Pacific,EAS,3.3,aggregate
+Europe & Central Asia,ECS,3.32391304347826,aggregate
+South Asia,SAS,2.825,aggregate
+Middle East North Africa Afghanistan & Pakistan,MEA,2.88823529411765,aggregate
+Latin America & Caribbean,LCN,2.692,aggregate
+Sub-Saharan Africa,SSF,2.53461538461538,aggregate
+OECD members,OED,3.63421052631579,aggregate
+High income,HIC,3.525,aggregate
+Upper middle income,UMC,2.8,aggregate
+Lower middle income,LMC,2.56071428571429,aggregate
+Low income,LIC,2.36428571428571,aggregate
+Least developed countries: UN classification,LDC,2.42083333333333,aggregate

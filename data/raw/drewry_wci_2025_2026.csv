@@ -1,0 +1,18 @@
+assessment_date,route,usd_per_feu,week_change_pct,source
+2025-11-06,WCI Composite,1959,8,Daily Cargo News / Drewry
+2025-11-13,WCI Composite,1859,-5,Drewry via Hellenic Shipping News
+2025-11-27,WCI Composite,1806,-2,Daily Cargo News / Drewry
+2026-01-08,WCI Composite,2557,16,Drewry
+2026-09-10,WCI Composite,4476,0,Drewry
+2026-10-01,WCI Composite,4434,-1,Drewry via Hellenic Shipping News
+2026-11-05,WCI Composite,4389,-1,Drewry via Green Worldwide
+2026-11-12,WCI Composite,4305,-2,Drewry via ShipUniverse
+2026-11-12,Shanghai-New York,9020,-3,Drewry via ShipUniverse
+2026-11-12,Shanghai-Los Angeles,7416,-2,Drewry via ShipUniverse
+2026-11-12,Shanghai-Genoa,4168,,Drewry via ShipUniverse
+2026-11-12,Shanghai-Rotterdam,3504,,Drewry via ShipUniverse
+2026-11-19,WCI Composite,4176,-3,Drewry via ShipUniverse
+2026-11-19,Shanghai-New York,8194,-9,Drewry via ShipUniverse
+2026-11-19,Shanghai-Los Angeles,7026,-5,Drewry via ShipUniverse
+2026-11-19,Shanghai-Genoa,4436,6,Drewry via ShipUniverse
+2026-11-19,Shanghai-Rotterdam,3496,0,Drewry via ShipUniverse

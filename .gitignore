@@ -1,0 +1,19 @@
+# secrets - never commit
+.streamlit/secrets.toml
+.env
+*.key
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# local / offline-preview vector stores
+chroma_db_offline/
+
+# os / editor
+.DS_Store
+.idea/
+.vscode/

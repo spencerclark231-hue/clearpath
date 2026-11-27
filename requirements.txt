@@ -1,0 +1,6 @@
+# Pinned so the committed chroma_db/ folder opens with the same ChromaDB version
+# locally and on Streamlit Community Cloud.
+streamlit==1.67.0
+openai==3.60.0
+chromadb==1.5.9
+pypdf==6.17.0
